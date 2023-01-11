@@ -233,7 +233,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-          <a href="https://www.credential.net/5d75032c-b86e-404d-8277-c0fa82e34ea3#gs.mcbeyp">[Course] Fundamentals of Web Development</a> (100%)
+          <a href="https://www.credential.net/5d75032c-b86e-404d-8277-c0fa82e34ea3#gs.mcbeyp" target="_blank">[Course] Fundamentals of Web Development</a> (100%)
       </summary>
       <ul>
       <li>
