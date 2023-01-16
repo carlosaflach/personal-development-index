@@ -195,36 +195,22 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2022</h1>
 <ul>
-  <!-- <li>
+  <li>
     <details> 
-    <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
-    </summary>
-    <ul>
+      <summary>
+          <a href="https://www.credential.net/88b1c48a-4191-4d42-b2ee-fd134b405b2a#gs.ms2yes" target="_blank">[Course] Front-End Development</a> (100%)
+      </summary>
+      <ul>
       <li>
-        Started: 2022-12-13
+        Started: 2021-09-01
       </li>
       <li>
-        Finished: 2022-12-15
+        Finished: 2022-02-04
       </li>
     </ul>
     </details>
-  </li> -->
-  <!-- <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a> (0%) 
-    </summary>
-    <ul>
-      <li>
-        Started: 2023-01-09
-      </li>
-      <li>
-        Finished: 
-      </li>
-    </ul>
-    </details>
-  </li> -->
+  </li>
+
 </ul>
 </br>
 
