@@ -195,6 +195,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2022</h1>
 <ul>
+<li>
+    <details> 
+      <summary>
+          <a href="https://www.udemy.com/certificate/UC-77f77879-2c31-4ea4-ae0c-78fca1e02a17/" target="_blank">[Course] Responsive Real-World Websites with HTML and CSS</a> (100%)
+      </summary>
+      <ul>
+      <li>
+        Started: 2021-01-20
+      </li>
+      <li>
+        Finished: 2022-05-31
+      </li>
+    </ul>
+    </details>
+  </li>
   <li>
     <details> 
       <summary>
