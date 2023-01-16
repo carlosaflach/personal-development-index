@@ -115,21 +115,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
-  <!-- <li>
+  <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+      <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] Scale React Development with Nx</a> (0%)
     </summary>
     <ul>
         <li>
-          Started: 2022-11-10
+          Started: 2023-01-16
         </li>
         <li>
           Finished:
         </li>
       </ul>
     </details>
-  </li> -->
+  </li>
   <!-- <li>
     <details> 
     <summary>
