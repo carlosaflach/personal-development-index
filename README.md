@@ -198,6 +198,21 @@ This is a simple document that aims to list and index evidences of personal deve
 <li>
     <details> 
       <summary>
+          <a href="https://www.linkedin.com/learning/certificates/695c2e244182d3bf0b1c86004aae229e5e9475d23865ce00ce6cef0742ba8387" target="_blank">[Course] Agile Software Development</a> (100%)
+      </summary>
+      <ul>
+      <li>
+        Started: 2022-07-20
+      </li>
+      <li>
+        Finished: 2022-07-25
+      </li>
+    </ul>
+    </details>
+  </li>
+<li>
+    <details> 
+      <summary>
           <a href="https://www.udemy.com/certificate/UC-77f77879-2c31-4ea4-ae0c-78fca1e02a17/" target="_blank">[Course] Responsive Real-World Websites with HTML and CSS</a> (100%)
       </summary>
       <ul>
