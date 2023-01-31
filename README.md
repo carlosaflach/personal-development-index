@@ -118,7 +118,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] Scale React Development with Nx</a> (45%)
+      <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] Scale React Development with Nx</a> (58.3%)
     </summary>
     <ul>
         <li>
