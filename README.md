@@ -130,6 +130,21 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] The Complete JavaScript Course </a> (35%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-01-23
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
   <!-- <li>
     <details> 
     <summary>
