@@ -85,7 +85,7 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
-<li>
+  <li>
     <details> 
     <summary>
       <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Development-ebook/dp/B00BIRRRX2/ref=sr_1_4?keywords=extreme+programming&qid=1676336171&sprefix=extreme+progra%2Caps%2C243&sr=8-4" target="_blank">[Book] Extreme Programming</a> (15%)
@@ -114,14 +114,8 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
     </details>
-
-  </li> -->
-</ul>
-</br>
-
-<h1>2023</h1>
-<ul>
-  <li>
+  </li>
+   <li>
     <details> 
     <summary>
       <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] Scale React Development with Nx</a> (75%)
@@ -129,11 +123,12 @@ This is a simple document that aims to list and index evidences of personal deve
     <ul>
         <li>
           Started: 2023-01-16
-
-  </li>
-  <li>
+        </li>
+        <li>
           Finished: 
         </li>
+    </ul>
+  </li>
   <li>
     <details> 
     <summary>
@@ -142,7 +137,6 @@ This is a simple document that aims to list and index evidences of personal deve
     <ul>
         <li>
           Started: 2022-10-25
-
         </li>
         <li>
           Finished: 2023-01-24
@@ -150,69 +144,9 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <!-- <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (20%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-12-11
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li> -->
-  <!-- <li>
-    <details> 
-      <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
-      </summary>
-      <ul>
-        <li>
-          Started: 2022-11-26
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li> -->
-  <!-- <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (61%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li> -->
-   <!-- <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-10-13
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li> -->
 </ul>
 </br>
-
+ 
 <h1>2022</h1>
 <ul>
   <li>
