@@ -5,10 +5,10 @@ This is a simple document that aims to list and index evidences of personal deve
 </br>
 <h1>Backlog</h1>
 <ul>
-  <!-- <li>
+  <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
+        <a href="https://www.alura.com.br/curso-online-solid-orientacao-objetos-java">[Course] OOP and Solid</a> (0%)
       </summary>
       <ul>
         <li>
@@ -23,22 +23,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tutorials/zod">[Tutorial] Zod</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li> -->
-  <!-- <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/workshops/type-transformations">[Workshop] Type Transformations</a> (0%)
+        <a href="">[Course] Micro Front-ends</a> (0%)
       </summary>
       <ul>
         <li>
@@ -53,7 +38,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tips">[Workshop] TypeScript Tips</a> (0%)
+        <a href="https://www.coursera.org/learn/design-patterns">[Course] Design Patterns </a> (0%)
       </summary>
       <ul>
         <li>
@@ -68,7 +53,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
+        <a href="https://www.amazon.com.br/Padr%C3%B5es-Javascript-Stoyan-Stefanov/dp/857522266X/ref=sr_1_1?keywords=padroes+javascript&qid=1676335657&sprefix=padroe%2Caps%2C224&sr=8-1">[Book] JavaScript Patterns</a> (0%)
       </summary>
       <ul>
         <li>
@@ -83,7 +68,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113">[Book] Peopleware: Productive Projects and Teams</a> (0%)
+        <a href="https://www.amazon.com.br/Python-Crash-Course-Eric-Matthes/dp/1593279280/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2C49SHA5JS31X&keywords=Python+Crash+Course&qid=1676335805&sprefix=python+crash+course%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d">[Book] Python Crash Course</a> (0%)
       </summary>
       <ul>
         <li>
@@ -95,41 +80,26 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li> -->
 </ul>
 </br>
 
 <h1>2023</h1>
 <ul>
-  <!-- <li>
+  <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+      <a href="https://www.credential.net/c4f2619f-d345-4173-8f5d-fa63f1884fab#gs.pzv58f" target="_blank">[Course] Computer Science</a> (100%)
     </summary>
     <ul>
         <li>
-          Started: 2022-11-10
+          Started: 2022-10-25
         </li>
         <li>
-          Finished:
+          Finished: 2023-01-24
         </li>
       </ul>
     </details>
-  </li> -->
+  </li>
   <!-- <li>
     <details> 
     <summary>
