@@ -103,6 +103,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
+      <a href="https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/" target="_blank">[Course] React with TypeScript</a> (5%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-02-01
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
       <a href="https://www.credential.net/c4f2619f-d345-4173-8f5d-fa63f1884fab#gs.pzv58f" target="_blank">[Course] Computer Science</a> (100%)
     </summary>
     <ul>
