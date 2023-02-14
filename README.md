@@ -114,7 +114,26 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
     </details>
+
+  </li> -->
+</ul>
+</br>
+
+<h1>2023</h1>
+<ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/carlosaflach/scale_react_w_nx">[Course] Scale React Development with Nx</a> (75%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-01-16
+
   </li>
+  <li>
+          Finished: 
+        </li>
   <li>
     <details> 
     <summary>
@@ -123,6 +142,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <ul>
         <li>
           Started: 2022-10-25
+
         </li>
         <li>
           Finished: 2023-01-24
