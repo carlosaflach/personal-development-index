@@ -85,6 +85,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
+<li>
+    <details> 
+    <summary>
+      <a href="https://www.amazon.com.br/Extreme-Programming-Pocket-Guide-Development-ebook/dp/B00BIRRRX2/ref=sr_1_4?keywords=extreme+programming&qid=1676336171&sprefix=extreme+progra%2Caps%2C243&sr=8-4" target="_blank">[Book] Extreme Programming</a> (15%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-02-10
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
