@@ -103,7 +103,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/carlosaflach/Complete-JavaScript-Course">[Course] The Complete JavaScript Course </a> (54%)
+      <a href="https://github.com/carlosaflach/Complete-JavaScript-Course">[Course] The Complete JavaScript Course </a> (60%)
     </summary>
     <ul>
         <li>
