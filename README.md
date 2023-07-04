@@ -100,7 +100,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
+  <!-- <li>
     <details> 
     <summary>
       <a href="https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/" target="_blank">[Course] React with TypeScript</a> (5%)
@@ -114,7 +114,7 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
     </details>
-  </li>
+  </li> -->
    <li>
     <details> 
     <summary>
