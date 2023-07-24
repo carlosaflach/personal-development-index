@@ -129,10 +129,25 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
     </ul>
   </li>
+   <li>
+    <details> 
+    <summary>
+      <a href="https://www.credential.net/284be962-3c8b-4d32-ac69-14b72d169d4f#gs.2z5bs2" target="_blank">[Course] Full Stack Web Development - Trybe</a> (100%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2021-06-07
+        </li>
+        <li>
+          Finished: 2023-01-24
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
-      <a href="https://www.credential.net/c4f2619f-d345-4173-8f5d-fa63f1884fab#gs.pzv58f" target="_blank">[Course] Computer Science</a> (100%)
+      <a href="https://www.credential.net/9beb7b88-8827-4eb1-b3d1-e1603604ca0c" target="_blank">[Course] Computer Science</a> (100%)
     </summary>
     <ul>
         <li>
@@ -152,7 +167,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-          <a href="https://www.credential.net/3e715f97-07de-4d14-99c7-aba9ecb42bdf#gs.ms14tt" target="_blank">[Course] Back-End Development</a> (100%)
+          <a href="https://www.credential.net/9089912a-64af-43e0-9149-dd22463ab933" target="_blank">[Course] Back-End Development</a> (100%)
       </summary>
       <ul>
       <li>
@@ -197,7 +212,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-          <a href="https://www.credential.net/88b1c48a-4191-4d42-b2ee-fd134b405b2a#gs.ms2yes" target="_blank">[Course] Front-End Development</a> (100%)
+          <a href="https://www.credential.net/9ad3919b-b03f-4f53-88c2-b71d6f1aa45d" target="_blank">[Course] Front-End Development</a> (100%)
       </summary>
       <ul>
       <li>
@@ -218,7 +233,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-          <a href="https://www.credential.net/5d75032c-b86e-404d-8277-c0fa82e34ea3#gs.mcbeyp" target="_blank">[Course] Fundamentals of Web Development</a> (100%)
+          <a href="https://www.credential.net/0d5b4b38-3f62-4507-b750-bab308df299f#gs.2z59gz" target="_blank">[Course] Fundamentals of Web Development</a> (100%)
       </summary>
       <ul>
       <li>
