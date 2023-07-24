@@ -62,7 +62,7 @@ This is a simple document that aims to list and index evidences of personal deve
     </summary>
     <ul>
         <li>
-          Started: 2023-06-10
+          Started: 2023-07-10
         </li>
         <li>
           Finished: 
