@@ -55,6 +55,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
+ <li>
+    <details> 
+    <summary>
+      <a href="https://www.amazon.com.br/Engenharia-Software-Moderna-Marco-Valente/dp/6500019504" target="_blank">[Book] Modern Software Engineering</a> (10%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-06-10
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
