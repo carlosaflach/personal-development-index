@@ -85,6 +85,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
+<li>
+    <details> 
+    <summary>
+      <a href="https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path" target="_blank">[Course] MongoDB Node.js Developer Path</a> (23%)
+    </summary>
+    <ul>
+        <li>
+          Started: 2023-06-22
+        </li>
+        <li>
+          Finished: -
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
