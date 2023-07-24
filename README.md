@@ -88,7 +88,7 @@ This is a simple document that aims to list and index evidences of personal deve
 <li>
     <details> 
     <summary>
-      <a href="https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path" target="_blank">[Course] MongoDB Node.js Developer Path</a> (23%)
+      <a href="https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path" target="_blank">[Course] MongoDB Node.js Developer Path</a> (30%)
     </summary>
     <ul>
         <li>
